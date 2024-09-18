@@ -14,24 +14,7 @@ The `Organization ABM` model simulates a workplace environment where employees i
 - **Knowledge Dynamics**: Employees' knowledge decays over time but can be augmented through interactions with peers and AI.
 - **Dynamic Social Networks**: Agents can form or remove social connections dynamically during the simulation.
 
-## Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/zach-porter/organization_abm.git
-    cd organization_abm
-    ```
-
-2. Set up a virtual environment and activate it:
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-    ```
-
-3. Install the dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Running the Simulation
 
